@@ -28,6 +28,12 @@ var lovesCode = true
 
 //CODE HERE
 
+if(faveNum === 13){
+  console.log('Lucky 13!')
+}else{
+  console.log('Not lucky 13')
+}
+
 //////////////////PROBLEM 5////////////////////
 /*
   Write a for loop that prints out your faveNum 5 times.
