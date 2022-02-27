@@ -3,6 +3,8 @@
 
 //CODE HERE 
 
+var myName = 'Eleila Bradford'
+
 //////////////////PROBLEM 2////////////////////
 /* Create a variable called 'faveNum' with a value that is your favorite number. */
 
