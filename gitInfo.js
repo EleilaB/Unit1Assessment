@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+var gitDefinition = 'A system for cataloguing changes made to a file.'
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,6 +20,8 @@
 */
 
 //CODE HERE
+
+var gitHubDefinition = 'A cloud-based directory in which users can create repositories to store, upload, and download their git files.'
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -27,6 +31,8 @@
 
 //CODE HERE
 
+var gitInitDefinition = 'git init is a command used in the terminal which creates a new git folder in the current directory.'
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -35,6 +41,8 @@
 
 //CODE HERE
 
+var gitCloneDefinition = 'git clone is a command used in the terminal which creates a copy of a stated git or git repository and moves it into a stated directory.'
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +50,8 @@
 */
 
 //CODE HERE
+
+var gitStatusDefinition = 'git status is a command used in the terminal which displays the current branch you are in, any untracked files that have yet to be added to the git folder, as well as any files that are in the git folder but have been modified since the last commit.'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -54,6 +64,10 @@
 
 //CODE HERE
 
+var gitAddDefinition = 'git add is a command used in the terminal which queues the stated file to be committed to the current git folder.'
+
+var gitAddCode = 'git add -A'
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -65,6 +79,9 @@
 
 //CODE HERE
 
+var gitCommitDefinition = 'git commit is a command used in the terminal which saves all queued files to the git folder. Any previous versions of those files are not erased.'
+
+var gitCommitCode = 'git commit -m "initial commit."'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +90,5 @@
 */
 
 //CODE HERE
+
+var gitPushDefinition = 'git push is a command used in the terminal which updates a remote git repository using the local git folder.'
