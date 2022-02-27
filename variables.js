@@ -17,7 +17,7 @@ var faveNum = 17
 
 //CODE HERE
 
-
+var lovesCode = true
 
 //////////////////PROBLEM 4////////////////////
 /*
