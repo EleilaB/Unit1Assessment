@@ -12,6 +12,8 @@ var colorCopy = faveColors.slice(0, 3)
 
 //CODE HERE
 
+colorCopy.push('purple')
+
 //////////////////PROBLEM 3////////////////////
 /*
   Using an array method, create a new array called 'middleNums' from the 
