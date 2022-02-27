@@ -6,11 +6,11 @@
 */
 
 // Analysis of Requirements
+// Planning
 // Design
 // Implementation
-// Maintain
-// Planning
 // Testing & Integration
+// Maintain
 
 
 //////////////////PROBLEM 2////////////////////
