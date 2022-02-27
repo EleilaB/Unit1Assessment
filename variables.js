@@ -10,10 +10,14 @@ var myName = 'Eleila Bradford'
 
 //CODE HERE
 
+var faveNum = 17
+
 //////////////////PROBLEM 3////////////////////
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
 
 //CODE HERE
+
+
 
 //////////////////PROBLEM 4////////////////////
 /*
